@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428241378995",
+    "project_id": "movies-app-822d2",
+    "storage_bucket": "movies-app-822d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428241378995:android:2bf84ae0594258e7f99ac6",
+        "android_client_info": {
+          "package_name": "com.vaibhav.lakhera.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428241378995-jvkjsp6m86rdu50irk1hkcsjkh11kosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqpvnXnTB8Hsr1coN95D4ElanLhYQoh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428241378995-jvkjsp6m86rdu50irk1hkcsjkh11kosn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
